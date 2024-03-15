@@ -26,6 +26,8 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     backstage.io/linguist: https://github.com/ItRachii/ebs-sample-python-application
     sonarqube.org/project-key: 'python-app/aws-elb-python'
+    dev.azure.com/project: 'SDAFY24'
+    dev.azure.com/build-definition: 'ey-org.devexplatform'
 
 spec:
   type: service
